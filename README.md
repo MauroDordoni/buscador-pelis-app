@@ -21,7 +21,7 @@
 
 ### 1. Clona el repositorio
 
-git clone https://github.com/MauroDordoni/buscador-peliculas-react
+git clone (https://github.com/MauroDordoni/buscador-pelis-app)
 cd buscador-peliculas-react
 
 ### 2. Instala las dependencias
